@@ -1,9 +1,5 @@
 🛡️ Bug Bounty Automation Setup
 
-https://img.shields.io/badge/Python-3.6+-blue.svg
-https://img.shields.io/badge/Platform-Linux-lightgrey.svg
-https://img.shields.io/badge/License-MIT-green.svg
-
 Автоматический скрипт для настройки полноценного окружения Bug Bounty с установкой популярных инструментов пентеста.
 📋 Оглавление
 
