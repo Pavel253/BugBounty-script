@@ -77,72 +77,74 @@ BugBounty_Workspace/
 🛠️ Установленные инструменты
 🔍 Web Catalog (Сканирование директорий)
 
-    dirsearch - Advanced web path scanner
+    dirsearch - Расширенный сканер веб-путей
 
-    ParamSpider - Parameter discovery suite
+    ParamSpider - Набор для обнаружения параметров
+
+    feroxbuster - Простой, быстрый и рекурсивный инструмент обнаружения контента, написанный на Rust. 
 
 🌐 Subdomains (Поиск поддоменов)
 
-    assetfinder - Subdomain discovery tool
+    assetfinder - Инструмент обнаружения поддоменов
 
-    dalfox - Powerful XSS scanner
+    dalfox - Мощный XSS-сканер
 
-    subscraper - Multi-source subdomain enumerator
+    subscraper - Перечислитель поддоменов с несколькими исходными кодами
 
 📡 Scanner (Сканеры безопасности)
 
-    nmap - Network exploration tool
+    nmap -  Инструмент для исследования сети
 
-    subfinder - Subdomain discovery tool
+    subfinder - инструмент для обнаружения поддоменов
 
-    rustscan - Modern port scanner
+    rustscan - Современный сканер портов
 
-    katana - Fast crawling framework
+    katana - Платформа для быстрого сканирования
 
-    lostools - Collection of OSINT tools
+    lostools - Набор инструментов OSINT
 
-    PenHunter - Automated penetration testing tool
+    PenHunter - Инструмент для автоматизированного тестирования на проникновение
 
-    argus - Security assessment framework
+    argus - Платформа для оценки безопасности
 
 🎯 Specific Vulnerability Scanners
 LFI (Local File Inclusion)
 
-    LFIscanner - Automated LFI detection
+    LFIscanner - Автоматическое обнаружение LFI
 
-    Lfi-Space - Advanced LFI exploitation
+    Lfi-Space - Расширенное использование LFI
 
 SQL Injection
 
-    SQL-Injection-Finder - SQLi vulnerability detector
+    SQL-Injection-Finder - детектор уязвимостей SQLi
 
-    sqlmap - Automatic SQL injection tool
+    sqlmap - Инструмент автоматического внедрения SQL
 
 XSS (Cross-Site Scripting)
 
-    XSStrike - Advanced XSS detection suite
+    XSStrike - Расширенный пакет обнаружения XSS
 
-    dalfox - Parameter analysis and XSS scanning
+    dalfox - Анализ параметров и XSS-сканирование
 
 SSRF (Server-Side Request Forgery)
 
-    SSRFmap - Automatic SSRF exploitation tool
+    SSRFmap - Автоматический инструмент для использования SSRF-файлов
 
 Open Redirect
 
-    openredirex - Open redirect vulnerability scanner
+    openredirex - Сканер уязвимостей с открытым перенаправлением
 
 JavaScript Analysis
 
-    jshunter - JavaScript analysis tool
+    jshunter - инструмент анализа JavaScript
 
     Pinkerton - JS endpoint discovery
 
-    SecretFinder - API key and secret finder
+    SecretFinder - поиск ключей API и секретных данных
 
 CMS Security
 
-    wpprobe - WordPress security scanner
+    wpprobe - сканер безопасности WordPress
 
 🚀 Использование
 
