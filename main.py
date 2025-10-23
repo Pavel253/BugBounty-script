@@ -80,6 +80,7 @@ def tools():
       # Web catalog
       "cd Web_catalog && git clone https://github.com/maurosoria/dirsearch.git --depth 1 && cd dirsearch && pip install -r requirements.txt",
       "cd Web_catalog && git clone https://github.com/0xKayala/ParamSpider && cd ParamSpider && pip3 install -r requirements.txt",
+      "curl -sL https://raw.githubusercontent.com/epi052/feroxbuster/main/install-nix.sh | bash & ./feroxbuster --update"
 
       # SubDomain
       "sudo dnf install go",
